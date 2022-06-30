@@ -1,0 +1,34 @@
+Git leöltés és telepítés
+https://git-scm.com/
+
+Github fiók
+
+
+
+
+CTRL+SHIFT+G: Source Control view
+
+
+https://docs.microsoft.com/hu-hu/learn/modules/introduction-to-github-visual-studio-code/?source=learn
+
+
+jobb CTRL+SHIFT+P
+Git: Clone
+GitHub Pull Requests: Create Pull Request
+
+
+
+Bővítmények
+Hungarian Language Pack for Visual Studio Code
+HTML Preview
+vscode-pdf
+
+
+
+
+
+
+VSCode
+Accounts (bal alsó sarok) / <felhasználó> (GitHub) -> Sign Out
+
+
