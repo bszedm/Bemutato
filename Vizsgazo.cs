@@ -43,7 +43,10 @@ namespace Nyelvvizsga
 
 
 		//TAGFÜGGVÉNYEK
-
+        public double szazalekosTeljesitmeny()
+        {
+            return ((double) vizsgaPont * 160) / 100;
+        }
 
 
 
