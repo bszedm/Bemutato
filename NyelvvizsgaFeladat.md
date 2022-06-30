@@ -13,13 +13,3 @@ Rendelkezésére áll az egy vizsgázó adatait tárolni képes típus leírás�
 - [ ] 4. Gyűjtse ki azokat a vizsgázókat, akik 60% és 70% közötti eredményt értek el! A kigyűjtött vizsgázók neveit írassa is ki a hetvenkedok.txt fájlba!
 
 
-
-
-
-
-
-
-
-
-
-
