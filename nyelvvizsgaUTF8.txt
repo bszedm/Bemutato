@@ -1,0 +1,42 @@
+Baloghné Czifra Erzsébet;6429;alapfok;79
+Buchern Lajosné;6397;alapfok;125
+Bujdosó Lászlóné;7047;középfok;149
+Csürke György;6458;középfok;148
+Czeglédi Ferenc;6358;alapfok;132
+Demjén Zoltán;6423;középfok;145
+Dobsa Ottóné;7026;alapfok;145
+Dózsa Ferenc;6415;alapfok;120
+Egedi József;7041;alapfok;135
+Fazekas Gabriella;6482;középfok;121
+Gerlecz Krisztián;4774;alapfok;141
+Herwerth Ottó;4283;alapfok;105
+Herwerth Bernadett;6484;alapfok;96
+Hosszu Borbála;6413;alapfok;159
+Jászóy Zsolt;6477;alapfok;117
+Juhász Lászlóné;6471;alapfok;134
+Kéri Nagy Anikó;5869;alapfok;131
+Kiss Király Katalin;6351;középfok;140
+Lászlóné Domány Mária;7040;alapfok;106
+Marosi Krisztina;7046;középfok;122
+Moór Zoltánné;6313;középfok;143
+Mórász Ferenc;7945;alapfok;132
+Nagy Zoltánn;7045;alapfok;132
+Németh Józsefné;6408;alapfok;137
+Pásztor Péter;7516;alapfok;155
+Pióker Balázs;6478;alapfok;40
+Pöndör Tamás;6391;alapfok;100
+Rákosréti Pál;6390;középfok;132
+Salga Gyula;6404;alapfok;135
+Sánta Henriett;6374;alapfok;134
+Skotnyárné Papp Judit;6311;alapfok;95
+Szászné Forgács Zsuzsanna;6399;alapfok;130
+Szil Éva;6443;alapfok;131
+Szűcs Péter;6470;alapfok;115
+Szűcs Beatrix;6431;alapfok;118
+Tarczai András;6405;alapfok;137
+Vanek Anna;6424;alapfok;116
+Varga Attila;6467;középfok;142
+Varju Kinga;6352;alapfok;98
+Véber Zoltán;7029;alapfok;125
+Végvári József;6492;közép;125
+Veres Éva;8492;alapfok;157
