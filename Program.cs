@@ -31,10 +31,15 @@ namespace Nyelvvizsga
                 Console.WriteLine($"{nyelvvizsgazok[i].getVizsgaPont()}");
              }
 
+            for (int i = 0; i < nyelvvizsgazok.Count; i++)
+            {
+                if (nyelvvizsgazok[i].szazalekosTeljesitmeny()>=60 && nyelvvizsgazok[i].szazalekosTeljesitmeny()<=70)
+                {
+                    Console.Write($"{nyelvvizsgazok[i].getVizsgazoNev(), -25}\t");
+                    Console.WriteLine(nyelvvizsgazok[i].szazalekosTeljesitmeny().toString());
+                }
 
-
-
-
+            }
             Console.ReadKey();
         }
 
